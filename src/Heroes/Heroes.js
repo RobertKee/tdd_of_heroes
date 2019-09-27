@@ -4,7 +4,7 @@ import Hero from "../Hero/Hero";
 export default class Heroes extends Component {
   render() {
     return (
-        <Hero id={-1} name={'TestName'} />
+        <Hero id={1} name={'Windstorm'} />
     )
   }
 }

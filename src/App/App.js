@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Heroes from "./Heroes";
+import Heroes from "../Heroes/Heroes";
 
 function App() {
   const title = 'TDD of Heroes'
